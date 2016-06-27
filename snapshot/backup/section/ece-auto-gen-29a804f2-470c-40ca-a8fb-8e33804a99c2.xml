@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<escenic version="2.0" xmlns="http://xmlns.escenic.com/2009/import">
+    <section unique-name="config.default.tag" source="ece-auto-gen" sourceid="29a804f2-470c-40ca-a8fb-8e33804a99c2" name="Tag templates" mirror-source="false">
+        <parent source="ece-auto-gen" sourceid="d8d293c9-444e-416b-8caa-2ddbab5adf4f" unique-name="config.default"/>
+        <unique-name>config.default.tag</unique-name>
+        <directory>config_default_tag</directory>
+        <section-layout>defaultsection</section-layout>
+        <article-layout>defaultarticle</article-layout>
+    </section>
+</escenic>
