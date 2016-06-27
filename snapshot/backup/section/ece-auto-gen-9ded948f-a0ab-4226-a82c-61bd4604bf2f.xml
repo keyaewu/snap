@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<escenic version="2.0" xmlns="http://xmlns.escenic.com/2009/import">
+    <section unique-name="config.default.section.search.src" source="ece-auto-gen" sourceid="9ded948f-a0ab-4226-a82c-61bd4604bf2f" name="search" mirror-source="false">
+        <parent source="ece-auto-gen" sourceid="d335d94f-3696-40fb-9b79-cad9bb4f87a4" unique-name="config.default.section.search"/>
+        <unique-name>config.default.section.search.src</unique-name>
+        <directory>config_default_section_search_src</directory>
+        <section-layout>defaultsection</section-layout>
+        <article-layout>defaultarticle</article-layout>
+    </section>
+</escenic>
