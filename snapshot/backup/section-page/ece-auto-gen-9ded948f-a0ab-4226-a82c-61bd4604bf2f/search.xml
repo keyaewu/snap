@@ -1,4 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <escenic version="2.0" xmlns="http://xmlns.escenic.com/2009/import">
-    <section-page source="ece-auto-gen" sourceid="9ded948f-a0ab-4226-a82c-61bd4604bf2f" unique-name="config.default.section.search.src" name="search" layout-name="config" action="remove"/>
+    <section-page source="ece-auto-gen" sourceid="9ded948f-a0ab-4226-a82c-61bd4604bf2f" unique-name="config.default.section.search.src" name="search" layout-name="config" action="remove">
+        <area name="outer"/>
+        <area name="header"/>
+        <area name="top"/>
+        <area name="main"/>
+        <area name="aside"/>
+        <area name="bottom"/>
+        <area name="footer"/>
+    </section-page>
 </escenic>
