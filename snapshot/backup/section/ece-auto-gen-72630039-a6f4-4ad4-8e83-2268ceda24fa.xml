@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<escenic version="2.0" xmlns="http://xmlns.escenic.com/2009/import">
+    <section unique-name="overlay.site-gama.config.default.section.sports" source="ece-auto-gen" sourceid="72630039-a6f4-4ad4-8e83-2268ceda24fa" name="&lt;site-gama&gt; Sports page template" mirror-source="false">
+        <parent source="ece-auto-gen" sourceid="844c1ded-25fc-4d15-9d1f-49f9582591ed" unique-name="config.default.section.sports"/>
+        <unique-name>overlay.site-gama.config.default.section.sports</unique-name>
+        <directory>overlay_site-gama_config_default_section_sports</directory>
+        <section-layout>defaultsection</section-layout>
+        <article-layout>defaultarticle</article-layout>
+    </section>
+</escenic>
