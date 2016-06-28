@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <escenic version="2.0" xmlns="http://xmlns.escenic.com/2009/import">
-    <section unique-name="ece_incoming" source="ece-auto-gen" sourceid="ed5c889a-c2b1-4869-ac81-0d6776f9f3a0" name="New Articles" mirror-source="false">
-        <parent source="ece-auto-gen" sourceid="8018cd58-2123-4d9a-8b56-3ed4cde08698" unique-name="ece_frontpage"/>
+    <section unique-name="ece_incoming" source="ece-auto-gen" sourceid="1b365ed6-8e2d-453e-aca4-01135dff794e" name="New Articles" mirror-source="false">
+        <parent source="ece-auto-gen" sourceid="cf0622c2-7b90-42be-b512-f52e391c0dea" unique-name="ece_frontpage"/>
         <unique-name>ece_incoming</unique-name>
         <directory>incoming</directory>
         <section-layout>defaultsection</section-layout>
