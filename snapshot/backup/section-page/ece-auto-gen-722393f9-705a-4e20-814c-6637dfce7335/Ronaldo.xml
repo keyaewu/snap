@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <escenic version="2.0" xmlns="http://xmlns.escenic.com/2009/import">
-    <section-page source="ece-auto-gen" sourceid="722393f9-705a-4e20-814c-6637dfce7335" unique-name="config.default.section.sports.Ronaldo" name="Ronaldo" layout-name="config" action="remove">
+    <section-page source="ece-auto-gen" sourceid="722393f9-705a-4e20-814c-6637dfce7335" unique-name="config.default.section.sports.ronaldo" name="Ronaldo" layout-name="config" action="remove">
         <options>
             <field name="asideposition">
                 <value>right</value>
