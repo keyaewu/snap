@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <escenic version="2.0" xmlns="http://xmlns.escenic.com/2009/import">
-    <section unique-name="config.default.topic" source="ece-auto-gen" sourceid="5af4bfda-195c-4528-a1d0-b3ffda9b7fb8" name="Topic templates" mirror-source="false">
+    <section unique-name="config.default.section" source="ece-auto-gen" sourceid="a1b8f0a0-57a6-41fa-ac48-d78d20c73d29" name="Section templates" mirror-source="false">
         <parent source="ece-auto-gen" sourceid="7debd620-311a-498e-a90b-3c96597a25bc" unique-name="config.default"/>
-        <unique-name>config.default.topic</unique-name>
-        <directory>config_default_topic</directory>
+        <unique-name>config.default.section</unique-name>
+        <directory>config_default_section</directory>
         <section-layout>defaultsection</section-layout>
         <article-layout>defaultarticle</article-layout>
     </section>

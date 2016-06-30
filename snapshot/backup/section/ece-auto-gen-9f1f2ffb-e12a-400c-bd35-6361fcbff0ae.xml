@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <escenic version="2.0" xmlns="http://xmlns.escenic.com/2009/import">
     <section unique-name="config.default.tag.scheme.main" source="ece-auto-gen" sourceid="9f1f2ffb-e12a-400c-bd35-6361fcbff0ae" name="Main scheme template" mirror-source="false">
-        <parent source="ece-auto-gen" sourceid="29a804f2-470c-40ca-a8fb-8e33804a99c2" unique-name="config.default.tag"/>
+        <parent source="ece-auto-gen" sourceid="8ddd2584-b05e-4d99-9038-036632d86812" unique-name="config.default.tag"/>
         <unique-name>config.default.tag.scheme.main</unique-name>
         <directory>Main_scheme_template</directory>
         <section-layout>defaultsection</section-layout>
