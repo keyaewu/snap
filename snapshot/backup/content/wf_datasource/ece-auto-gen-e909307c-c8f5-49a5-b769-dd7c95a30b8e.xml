@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<escenic version="2.0" xmlns="http://xmlns.escenic.com/2009/import">
-    <content source="ece-auto-gen" sourceid="e909307c-c8f5-49a5-b769-dd7c95a30b8e" type="wf_datasource" state="draft">
-        <section-ref unique-name="config.default.section.supershop" home-section="true"/>
-        <priority value="0"/>
-        <field name="title">new data</field>
-        <field name="datasource">{"settings":{"maxItems":"","endDate":"","publishingPeriod":"any","24HoursBlockFromNow":"no","sort":"publish_date_dec","deduplication":"yes","24HoursBlock":"no","priority":"no","startDate":""},"sourceGroups":[{"sourceDefinition":[],"applySettings":"yes"}],"sourceDefinition":[],"formatVersion":"3.1"}</field>
-    </content>
-</escenic>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<escenic version="2.0" xmlns="http://xmlns.escenic.com/2009/import">
+    <section unique-name="ece_examples" source="ece-auto-gen" sourceid="e1ca5d3e-8a19-42d0-b23c-306386a4a739" name="Examples" mirror-source="false">
+        <parent source="ece-auto-gen" sourceid="c5a93880-eb84-429e-8b80-13c31314864d" unique-name="ece_frontpage"/>
+        <unique-name>ece_examples</unique-name>
+        <directory>Examples</directory>
+        <section-layout>defaultsection</section-layout>
+        <article-layout>defaultarticle</article-layout>
+    </section>
+</escenic>

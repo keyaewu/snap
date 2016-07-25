@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <escenic version="2.0" xmlns="http://xmlns.escenic.com/2009/import">
     <section-page source="ece-auto-gen" sourceid="4f2c7ceb-8063-47c4-bdf1-8d49c78fe484" unique-name="config.default.tag.main.messi" name="Messi tag template" layout-name="config" action="remove">
-        <area name="outer"/>
-        <area name="header"/>
-        <area name="top"/>
-        <area name="main"/>
         <area name="aside">
             <content-ref source="ece-auto-gen" sourceid="3f70259c-8f13-465b-b145-4cfefc25925a">
                 <field name="title">Related persons</field>
@@ -79,7 +75,5 @@
                 </options>
             </group>
         </area>
-        <area name="bottom"/>
-        <area name="footer"/>
     </section-page>
 </escenic>

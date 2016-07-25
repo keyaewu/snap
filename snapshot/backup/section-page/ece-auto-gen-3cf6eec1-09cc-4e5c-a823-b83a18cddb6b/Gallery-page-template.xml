@@ -15,12 +15,5 @@
                 <field name="title">Twitter card meta (gallery)</field>
             </content-ref>
         </area>
-        <area name="outer"/>
-        <area name="header"/>
-        <area name="top"/>
-        <area name="main"/>
-        <area name="aside"/>
-        <area name="bottom"/>
-        <area name="footer"/>
     </section-page>
 </escenic>

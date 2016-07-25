@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<escenic version="2.0" xmlns="http://xmlns.escenic.com/2009/import">
+    <content source="ece-auto-gen" sourceid="05f4c33e-10d0-417b-a48b-0645d74aefb6" type="widget_code" state="published">
+        <section-ref unique-name="config.default.section.international" home-section="true"/>
+        <priority value="0"/>
+        <field name="title">esnap-75</field>
+        <field name="enableesi">false</field>
+    </content>
+</escenic>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<escenic version="2.0" xmlns="http://xmlns.escenic.com/2009/import">
+    <content source="ece-auto-gen" sourceid="ed808c2b-d50c-4d3b-82c7-0837ebd3b6ee" type="widget_heading" state="published">
+        <section-ref unique-name="config" home-section="true"/>
+        <priority value="0"/>
+        <field name="title">TestAutomation Widget</field>
+        <field name="headingsource">
+            <value>selectedSection</value>
+        </field>
+        <field name="widgetwrapper">
+            <value>h3</value>
+        </field>
+    </content>
+</escenic>

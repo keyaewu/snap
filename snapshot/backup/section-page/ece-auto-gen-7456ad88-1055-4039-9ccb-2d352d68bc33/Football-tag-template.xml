@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <escenic version="2.0" xmlns="http://xmlns.escenic.com/2009/import">
     <section-page source="ece-auto-gen" sourceid="7456ad88-1055-4039-9ccb-2d352d68bc33" unique-name="config.default.tag.main.football" name="Football tag template" layout-name="config" action="remove">
-        <area name="outer"/>
-        <area name="header"/>
         <area name="top">
             <group name="split-2" label="Two column">
                 <area name="column-1">
@@ -98,7 +96,5 @@
                 </options>
             </group>
         </area>
-        <area name="bottom"/>
-        <area name="footer"/>
     </section-page>
 </escenic>

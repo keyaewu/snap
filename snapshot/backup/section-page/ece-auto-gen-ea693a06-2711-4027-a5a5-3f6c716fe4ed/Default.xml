@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<escenic version="2.0" xmlns="http://xmlns.escenic.com/2009/import">
+    <section-page source="ece-auto-gen" sourceid="ea693a06-2711-4027-a5a5-3f6c716fe4ed" unique-name="config.default" name="Default" layout-name="config" action="remove">
+        <options>
+            <field name="area_split">
+                <value>12_0</value>
+            </field>
+        </options>
+        <area name="top">
+            <options>
+                <field name="showtoparea">
+                    <value>false</value>
+                </field>
+            </options>
+        </area>
+        <area name="bottom">
+            <options>
+                <field name="showbottomarea">
+                    <value>false</value>
+                </field>
+            </options>
+        </area>
+        <area name="footer">
+            <options>
+                <field name="areastyleclass">footer</field>
+                <field name="htmltag">
+                    <value>footer</value>
+                </field>
+            </options>
+        </area>
+    </section-page>
+</escenic>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<escenic version="2.0" xmlns="http://xmlns.escenic.com/2009/import">
+    <content source="ece-auto-gen" sourceid="8ab85d3a-a117-4275-bc5d-53fc188e8c2a" type="widget_master" state="published">
+        <section-ref unique-name="config.default.section.ece_frontpage" home-section="true"/>
+        <priority value="0"/>
+        <field name="title">mas-oop</field>
+        <field name="enableesi">false</field>
+    </content>
+</escenic>

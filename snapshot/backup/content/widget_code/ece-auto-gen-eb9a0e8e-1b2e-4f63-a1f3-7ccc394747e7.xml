@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<escenic version="2.0" xmlns="http://xmlns.escenic.com/2009/import">
+    <content source="ece-auto-gen" sourceid="eb9a0e8e-1b2e-4f63-a1f3-7ccc394747e7" type="widget_code" state="published">
+        <section-ref unique-name="ece_incoming" home-section="true"/>
+        <section-ref unique-name="ece_frontpage"/>
+        <section-ref unique-name="config.default.article.type.gallery"/>
+        <priority value="0"/>
+        <field name="title">kkoo</field>
+        <field name="enableesi">false</field>
+    </content>
+</escenic>

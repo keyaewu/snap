@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<escenic version="2.0" xmlns="http://xmlns.escenic.com/2009/import">
+    <content source="ece-auto-gen" sourceid="8d27409e-46be-4704-9867-123d4a4b0f44" type="widget_breadcrumb" state="published">
+        <section-ref unique-name="config.default.section.international" home-section="true"/>
+        <priority value="0"/>
+        <field name="title">b</field>
+        <field name="menuname">k</field>
+        <field name="displayarticletitle">false</field>
+        <field name="utilcacheenabled">true</field>
+        <field name="enableesi">false</field>
+    </content>
+</escenic>

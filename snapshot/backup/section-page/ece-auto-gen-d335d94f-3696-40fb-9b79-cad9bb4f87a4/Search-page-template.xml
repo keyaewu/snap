@@ -27,8 +27,6 @@
                 </options>
             </content-ref>
         </area>
-        <area name="header"/>
-        <area name="top"/>
         <area name="main">
             <group name="split-2" label="Two column">
                 <area name="column-1">
@@ -98,7 +96,5 @@
                 </options>
             </content-ref>
         </area>
-        <area name="bottom"/>
-        <area name="footer"/>
     </section-page>
 </escenic>

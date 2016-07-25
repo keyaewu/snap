@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<escenic version="2.0" xmlns="http://xmlns.escenic.com/2009/import">
+    <content source="ece-auto-gen" sourceid="1a88eeb9-420e-4631-b19e-e1dde57ccf20" type="widget_code" state="published">
+        <section-ref unique-name="config.default.article.type.picture" home-section="true"/>
+        <priority value="0"/>
+        <field name="title">local-caught</field>
+        <field name="enableesi">false</field>
+    </content>
+</escenic>

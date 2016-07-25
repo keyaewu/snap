@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<escenic version="2.0" xmlns="http://xmlns.escenic.com/2009/import">
+    <content source="ece-auto-gen" sourceid="8e01433d-2e55-47d0-ba30-21d4c50aa92a" type="widget_code" state="published">
+        <section-ref unique-name="ece_incoming"/>
+        <section-ref unique-name="config.default.section.international" home-section="true"/>
+        <priority value="0"/>
+        <field name="title">code w</field>
+        <field name="code">jlkhnl</field>
+        <field name="enableesi">false</field>
+    </content>
+</escenic>

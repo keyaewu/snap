@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<escenic version="2.0" xmlns="http://xmlns.escenic.com/2009/import">
+    <section unique-name="section created from qa-config juliet" source="ece-auto-gen" sourceid="71dea95d-6c71-43e1-b109-3e4885b605b5" name="section created from qa-config juliet" mirror-source="false">
+        <parent source="ece-auto-gen" sourceid="c5a93880-eb84-429e-8b80-13c31314864d" unique-name="ece_frontpage"/>
+        <unique-name>section created from qa-config juliet</unique-name>
+        <directory>section_created_from_qa-config_juliet</directory>
+        <section-layout>defaultsection</section-layout>
+        <article-layout>defaultarticle</article-layout>
+    </section>
+</escenic>

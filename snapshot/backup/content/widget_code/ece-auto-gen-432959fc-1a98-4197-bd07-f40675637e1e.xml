@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<escenic version="2.0" xmlns="http://xmlns.escenic.com/2009/import">
+    <content source="ece-auto-gen" sourceid="432959fc-1a98-4197-bd07-f40675637e1e" type="widget_code" state="published">
+        <section-ref unique-name="ece_incoming" home-section="true"/>
+        <section-ref unique-name="ece_frontpage"/>
+        <section-ref unique-name="config.default.section.ece_frontpage"/>
+        <priority value="0"/>
+        <field name="title">ece_frontpage_new_article</field>
+        <field name="enableesi">false</field>
+    </content>
+</escenic>
