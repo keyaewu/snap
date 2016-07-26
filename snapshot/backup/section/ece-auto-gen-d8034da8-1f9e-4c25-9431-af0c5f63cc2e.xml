@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <escenic version="2.0" xmlns="http://xmlns.escenic.com/2009/import">
     <section unique-name="config.default.section.ece_frontpage.amp" source="ece-auto-gen" sourceid="d8034da8-1f9e-4c25-9431-af0c5f63cc2e" name="AMP" mirror-source="false">
-        <parent source="ece-auto-gen" sourceid="73fa6514-55f4-4071-8290-e1b2d27fd7ed" unique-name="config.default.section.ece_frontpage"/>
+        <parent source="ece-auto-gen" sourceid="12cd096a-4f72-4a5d-b524-193cf856c79a" unique-name="config.default.section.ece_frontpage"/>
         <unique-name>config.default.section.ece_frontpage.amp</unique-name>
         <directory>config_default_section_ece_frontpage_amp</directory>
         <section-layout>defaultsection</section-layout>

@@ -5,6 +5,9 @@
         <relation type="related" source="ece-auto-gen" sourceid="2ef37889-9ec4-4a22-8fe5-34e47d06b12c">
             <field name="title">Section page meta</field>
         </relation>
+        <relation type="related" source="ece-auto-gen" sourceid="2ef37889-9ec4-4a22-8fe5-34e47d06b12c">
+            <field name="title">Section page meta</field>
+        </relation>
         <priority value="0"/>
         <field name="title">submenu</field>
         <field name="menuname">mega</field>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <escenic version="2.0" xmlns="http://xmlns.escenic.com/2009/import">
-    <section unique-name="config.inline" source="ece-auto-gen" sourceid="a5ffa205-6cae-4a1d-aebc-c1cac2be534e" name="Inline template" mirror-source="false">
-        <parent source="ece-auto-gen" sourceid="e35836ec-7c6a-4214-8d55-91573c43a034" unique-name="config"/>
+    <section unique-name="config.inline" source="ece-auto-gen" sourceid="95da6f00-5b9c-40b2-a650-3b84760b1610" name="Inline template" mirror-source="false">
+        <parent source="ece-auto-gen" sourceid="60e388fe-4909-4550-945e-679bbd918765" unique-name="config"/>
         <unique-name>config.inline</unique-name>
         <directory>config_inline</directory>
         <section-layout>defaultsection</section-layout>

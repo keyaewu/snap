@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <escenic version="2.0" xmlns="http://xmlns.escenic.com/2009/import">
-    <section-page source="ece-auto-gen" sourceid="e859a5bc-d687-4935-946a-8ad377af8a45" unique-name="config.default.tag" name="Tag templates" layout-name="config" action="remove">
+    <section-page source="ece-auto-gen" sourceid="b3e9e451-1ece-4ba9-85a4-488d1b8432ef" unique-name="config.default.tag" name="Tag templates" layout-name="config" action="remove">
         <area name="meta">
             <content-ref source="ece-auto-gen" sourceid="2f3f2507-ec96-471d-ae5a-458ddcce48f4">
                 <field name="title">Common meta</field>

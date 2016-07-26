@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <escenic version="2.0" xmlns="http://xmlns.escenic.com/2009/import">
     <section unique-name="config.default.tag.scheme.places" source="ece-auto-gen" sourceid="59bab75a-06eb-4475-ac71-8a9f67a718ec" name="Places scheme template" mirror-source="false">
-        <parent source="ece-auto-gen" sourceid="e859a5bc-d687-4935-946a-8ad377af8a45" unique-name="config.default.tag"/>
+        <parent source="ece-auto-gen" sourceid="b3e9e451-1ece-4ba9-85a4-488d1b8432ef" unique-name="config.default.tag"/>
         <unique-name>config.default.tag.scheme.places</unique-name>
         <directory>Places_scheme_template</directory>
         <section-layout>defaultsection</section-layout>

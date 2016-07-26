@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<escenic version="2.0" xmlns="http://xmlns.escenic.com/2009/import">
+    <section unique-name="overlay.qa-site.config.default.section.sports" source="ece-auto-gen" sourceid="f2b7bd7c-9764-48a7-ba39-3a19c50b9af5" name="&lt;qa-site&gt; Sports page template" mirror-source="false">
+        <parent source="ece-auto-gen" sourceid="844c1ded-25fc-4d15-9d1f-49f9582591ed" unique-name="config.default.section.sports"/>
+        <unique-name>overlay.qa-site.config.default.section.sports</unique-name>
+        <directory>overlay_qa-site_config_default_section_sports</directory>
+        <section-layout>defaultsection</section-layout>
+        <article-layout>defaultarticle</article-layout>
+    </section>
+</escenic>

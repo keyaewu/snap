@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<escenic version="2.0" xmlns="http://xmlns.escenic.com/2009/import">
+    <section-page source="ece-auto-gen" sourceid="60e388fe-4909-4550-945e-679bbd918765" unique-name="config" name="Config" layout-name="config" action="remove"/>
+</escenic>

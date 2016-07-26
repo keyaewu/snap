@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <escenic version="2.0" xmlns="http://xmlns.escenic.com/2009/import">
     <section unique-name="ece_examples" source="ece-auto-gen" sourceid="e1ca5d3e-8a19-42d0-b23c-306386a4a739" name="Examples" mirror-source="false">
-        <parent source="ece-auto-gen" sourceid="41aba93a-e772-4b09-9827-f9ffb32b41c9" unique-name="ece_frontpage"/>
+        <parent source="ece-auto-gen" sourceid="6756e843-d4a5-44b8-a5a5-de8b716a89b3" unique-name="ece_frontpage"/>
         <unique-name>ece_examples</unique-name>
         <directory>Examples</directory>
         <section-layout>defaultsection</section-layout>
