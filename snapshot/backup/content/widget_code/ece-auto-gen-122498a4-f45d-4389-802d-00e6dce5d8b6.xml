@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<escenic version="2.0" xmlns="http://xmlns.escenic.com/2009/import">
-    <content source="ece-auto-gen" sourceid="122498a4-f45d-4389-802d-00e6dce5d8b6" type="widget_code" state="published">
-        <section-ref unique-name="config.default.section.ece_frontpage" home-section="true"/>
-        <priority value="0"/>
-        <field name="title">sureooo</field>
-        <field name="enableesi">false</field>
-    </content>
-</escenic>

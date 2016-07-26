@@ -75,9 +75,6 @@
                 <value>lead</value>
             </value>
         </field>
-        <field name="imagelink">
-            <value>image</value>
-        </field>
         <field name="datetoshow">
             <value>publishedDate</value>
         </field>

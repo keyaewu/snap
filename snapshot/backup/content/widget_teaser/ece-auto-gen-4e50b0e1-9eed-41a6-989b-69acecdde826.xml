@@ -2,7 +2,6 @@
 <escenic version="2.0" xmlns="http://xmlns.escenic.com/2009/import">
     <content source="ece-auto-gen" sourceid="4e50b0e1-9eed-41a6-989b-69acecdde826" type="widget_teaser" state="published">
         <section-ref unique-name="config.default.section.international" home-section="true"/>
-        <section-ref unique-name="config.default.section.ece_frontpage"/>
         <priority value="0"/>
         <field name="title">Teaser widget</field>
         <field name="datasource">{"settings":{"maxItems":"","endDate":"","publishingPeriod":"any","sort":"publish_date_dec","deduplication":"no","24HoursBlock":"yes","priority":"no","startDate":""},"sourceGroups":[{"sourceDefinition":[{"groupName":"right","sectionSelectionPolicy":"Category","sourceType":"desked","publication":"","section":"international","groupInstance":"1","contentTypes":["wf_datasource"],"$$hashKey":"00G"}],"applySettings":"no","$$hashKey":"00E"}],"sourceDefinition":[],"formatVersion":"3.1"}</field>
@@ -16,9 +15,6 @@
             <value>
                 <value>subtitle</value>
             </value>
-        </field>
-        <field name="imagelink">
-            <value>image</value>
         </field>
         <field name="timemode">
             <value>sdf</value>

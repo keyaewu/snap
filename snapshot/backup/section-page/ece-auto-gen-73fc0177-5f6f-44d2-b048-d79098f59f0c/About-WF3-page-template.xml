@@ -7,6 +7,9 @@
             </field>
         </options>
         <area name="main">
+            <options>
+                <field name="areastyleclass">main</field>
+            </options>
             <content-ref source="ece-auto-gen" sourceid="3e325c5e-ad14-472a-b630-7f952b9bde20">
                 <field name="title">Section title</field>
                 <options>

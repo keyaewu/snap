@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<escenic version="2.0" xmlns="http://xmlns.escenic.com/2009/import">
-    <content source="ece-auto-gen" sourceid="ae8a1f5a-238f-4f9e-86c6-54ef8786b080" type="widget_code" state="published">
-        <section-ref unique-name="config.default.section.sports" home-section="true"/>
-        <priority value="0"/>
-        <field name="title">hhj</field>
-        <field name="enableesi">false</field>
-    </content>
-</escenic>
