@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<escenic version="2.0" xmlns="http://xmlns.escenic.com/2009/import">
+    <content source="ece-auto-gen" sourceid="3eed3446-f2e6-4d4e-b18c-de9ca50a3a4e" type="widget_code" state="published">
+        <section-ref unique-name="ece_incoming" home-section="true"/>
+        <section-ref unique-name="ece_frontpage"/>
+        <section-ref unique-name="config.default.article.type.gallery"/>
+        <priority value="0"/>
+        <field name="title">df code</field>
+        <field name="enableesi">false</field>
+    </content>
+</escenic>

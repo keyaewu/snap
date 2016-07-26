@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<escenic version="2.0" xmlns="http://xmlns.escenic.com/2009/import">
+    <content source="ece-auto-gen" sourceid="491e28b8-78b6-4939-9a0f-782a87407cf3" type="widget_heading" state="published">
+        <section-ref unique-name="config.default.section.sports" home-section="true"/>
+        <priority value="0"/>
+        <field name="title">hello</field>
+        <field name="headingsource">
+            <value>customText</value>
+        </field>
+        <field name="customtext">nnnnnn</field>
+    </content>
+</escenic>

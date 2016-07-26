@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<escenic version="2.0" xmlns="http://xmlns.escenic.com/2009/import">
+    <content source="ece-auto-gen" sourceid="dd23fa0b-afc3-4c85-8ba3-0ce29a061c99" type="widget_heading" state="published">
+        <section-ref unique-name="ece_incoming" home-section="true"/>
+        <priority value="0"/>
+        <field name="title">heading widget from qa-juliet</field>
+        <field name="headingsource">
+            <value>selectedSection</value>
+        </field>
+        <field name="contentsectionselection">
+            <title>News (news)</title>
+            <value>news</value>
+        </field>
+    </content>
+</escenic>
