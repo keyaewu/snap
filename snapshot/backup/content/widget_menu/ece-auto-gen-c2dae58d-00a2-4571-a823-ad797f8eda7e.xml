@@ -2,12 +2,8 @@
 <escenic version="2.0" xmlns="http://xmlns.escenic.com/2009/import">
     <content source="ece-auto-gen" sourceid="c2dae58d-00a2-4571-a823-ad797f8eda7e" type="widget_menu" state="published">
         <section-ref unique-name="config.default.section.ece_frontpage" home-section="true"/>
-        <relation type="related" source="ece-auto-gen" sourceid="2ef37889-9ec4-4a22-8fe5-34e47d06b12c">
-            <field name="title">Section page meta</field>
-        </relation>
-        <relation type="related" source="ece-auto-gen" sourceid="2ef37889-9ec4-4a22-8fe5-34e47d06b12c">
-            <field name="title">Section page meta</field>
-        </relation>
+        <relation type="related" source="ece-auto-gen" sourceid="2ef37889-9ec4-4a22-8fe5-34e47d06b12c"/>
+        <relation type="related" source="ece-auto-gen" sourceid="2ef37889-9ec4-4a22-8fe5-34e47d06b12c"/>
         <priority value="0"/>
         <field name="title">submenu</field>
         <field name="menuname">mega</field>
