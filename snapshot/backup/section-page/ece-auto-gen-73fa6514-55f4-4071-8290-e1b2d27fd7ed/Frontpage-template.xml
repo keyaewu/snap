@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <escenic version="2.0" xmlns="http://xmlns.escenic.com/2009/import">
-    <section-page source="ece-auto-gen" sourceid="12cd096a-4f72-4a5d-b524-193cf856c79a" unique-name="config.default.section.ece_frontpage" name="Frontpage template" layout-name="config" action="remove">
+    <section-page source="ece-auto-gen" sourceid="73fa6514-55f4-4071-8290-e1b2d27fd7ed" unique-name="config.default.section.ece_frontpage" name="Frontpage template" layout-name="config" action="remove">
         <options>
             <field name="area_split">
                 <value>12_0</value>

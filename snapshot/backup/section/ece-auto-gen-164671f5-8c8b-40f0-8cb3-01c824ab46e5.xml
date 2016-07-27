@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <escenic version="2.0" xmlns="http://xmlns.escenic.com/2009/import">
-    <section unique-name="config.default.article" source="ece-auto-gen" sourceid="705febc5-39a1-4eac-92e8-e4db34f987b3" name="Article templates" mirror-source="false">
-        <parent source="ece-auto-gen" sourceid="62a4bb6b-6184-4a4a-a67a-61262d85a7ee" unique-name="config.default"/>
+    <section unique-name="config.default.article" source="ece-auto-gen" sourceid="164671f5-8c8b-40f0-8cb3-01c824ab46e5" name="Article templates" mirror-source="false">
+        <parent source="ece-auto-gen" sourceid="ea693a06-2711-4027-a5a5-3f6c716fe4ed" unique-name="config.default"/>
         <unique-name>config.default.article</unique-name>
         <directory>config_article</directory>
         <section-layout>defaultsection</section-layout>

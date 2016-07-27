@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <escenic version="2.0" xmlns="http://xmlns.escenic.com/2009/import">
-    <section-page source="ece-auto-gen" sourceid="95da6f00-5b9c-40b2-a650-3b84760b1610" unique-name="config.inline" name="Inline template" layout-name="inline-config" action="remove">
+    <section-page source="ece-auto-gen" sourceid="a5ffa205-6cae-4a1d-aebc-c1cac2be534e" unique-name="config.inline" name="Inline template" layout-name="inline-config" action="remove">
         <area name="inline-config-area">
             <content-ref source="ece-auto-gen" sourceid="595f08b5-7ed8-4ed8-9dad-2cbf07447e42">
                 <field name="title">Headline</field>
